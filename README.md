@@ -1,4 +1,4 @@
-# Multi-Platform Classification with TensorFlow and PyTorch
+# Classification with TensorFlow and PyTorch
 
 This repository contains code for performing multi-class classification tasks on two different datasets using TensorFlow and PyTorch. The datasets used are:
 
