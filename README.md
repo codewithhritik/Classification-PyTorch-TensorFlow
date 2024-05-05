@@ -63,15 +63,15 @@ The performance of the models on the test sets is summarized below:
 
 | Platform   | Test Accuracy | Test Loss |
 | ---------- | ------------- | --------- |
-| TensorFlow | 0.7825        | 0.4932    |
-| PyTorch    | 0.7842        | 0.4901    |
+| TensorFlow | 0.8681        | 0.3086    |
+| PyTorch    | 0.8667        | 0.3109    |
 
 ### Human Activity Recognition (HAR70+) Dataset
 
-| Platform   | Test Accuracy | Test Loss |
-| ---------- | ------------- | --------- |
-| TensorFlow | 92.15%        | 0.2637    |
-| PyTorch    | 91.83%        | 0.2712    |
+| Platform   | Test Accuracy | Validation loss after 20th Epoch |
+| ---------- | ------------- | -------------------------------- |
+| TensorFlow | 96.52%        | 0.1122                           |
+| PyTorch    | 96.54%        | 0.1215                           |
 
 For more details, including plots and comparisons, please refer to the `report.pdf` file.
 
